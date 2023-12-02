@@ -17,4 +17,5 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-[Go to Home]{https://thicclab.github.io/docs/about/home)
+Click here to direct to home page:
+[Home](https://thicclab.github.io/docs/about/home)
