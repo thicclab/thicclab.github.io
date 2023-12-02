@@ -1,8 +1,6 @@
 layout: page
 title: "HOME"
 permalink: https://thicclab.github.io/docs/about/home
-
-layout: default
 ---
 
 <style type="text/css" media="screen">
@@ -22,6 +20,6 @@ layout: default
 <div class="container">
   <h1>Spilling the Tea; Stilling an Ocean</h1>
 
-  <p><strong>Home Page :(</strong></p>
-  <p>Welcome to the home page for this site..</p>
+  <p><strong>Home Page </strong></p>
+  <p>Welcome to the home page for this site!</p>
 </div>
