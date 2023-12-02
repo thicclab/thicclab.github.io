@@ -1,7 +1,6 @@
 layout: page
 title: "HOME"
-permalink: https://thicclab.github.io/docs/about/home
----
+permalink: /home.md
 
 <style type="text/css" media="screen">
   .container {
