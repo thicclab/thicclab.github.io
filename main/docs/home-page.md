@@ -1,6 +1,6 @@
 layout: page
 title: "HOME"
-permalink: /home.md
+permalink: /home.html
 
 <style type="text/css" media="screen">
   .container {
