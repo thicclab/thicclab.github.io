@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /docs/home/
 ---
 
 Welcome to the home page for Spilling the Tea and Stilling an Ocean!
