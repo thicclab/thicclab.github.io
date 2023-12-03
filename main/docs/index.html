@@ -5,19 +5,24 @@
 layout: home
 title: Spilling the Tea
 ---
-<div class="home container-fluid">
-	<section id="punchline" class="row">
+<!-- container-fluid allow for full width coverage based on viewport, not static-->
+<div class="container-fluid" style="background-color:FloralWhite">
+	<section id="headline" class="row">
 		<div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
-			<div id="punchline-problem">
+			<div id="headline-welcome" style="color:DarkBlue">
 				Welcome to this discussion of Engineering and Humanity.
 			</div>
-			<div id="punchline-solution">
+			<div id="headline-question" style="color:DarkBlue">
 				Gather Around. What tea would you like?
 			</div>
 		</div>
 	</section>
+  <!-- putting both the slideshow and now serving text inside one background box, rather than my proposed two colored box -->
   <section class="text-center row">
-		 <h1>Now Serving . . . </h1>
+		 <h1 style="color:Black">Now Serving . . . </h1>
        <!-- Implement slideshow for each speaker in this section -->
+       <!-- slideshow contains: a title for each slide, a brief headline text with speaker's name
+	    and a button linking to the individual speaker's page
+       -->
   </section>
 </div>
